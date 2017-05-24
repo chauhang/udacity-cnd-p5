@@ -4,4 +4,4 @@ Vehicle detection pipeline, whcih draws bounding boxes around the other vehicles
 
 Video is processed frame by frame via the image processing pipeline and then regenerated with the bounding boxes.
 
-[![Image](https://github.com/chauhang/udacity-cnd-p5/blob/master/output_files/vehicle-detect-stages.png)]
+![Image](https://github.com/chauhang/udacity-cnd-p5/blob/master/output_files/vehicle-detect-stages.png)
